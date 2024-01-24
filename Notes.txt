@@ -1,1 +1,3 @@
-why data analytics ? where is world in terms of data analytics?
+why data analytics ? where is world in terms of data analytics? 
+We learn the basis of python 
+Then python for data analysis
